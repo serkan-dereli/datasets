@@ -1,0 +1,2 @@
+# datasets
+Tarımsal bölge verisetim
