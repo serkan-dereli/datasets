@@ -22,6 +22,7 @@ The dataset contains ten agricultural RGB images together with their correspondi
 
 The directory structure of the agricultural dataset is organized as follows:
 
+```text
 agriculture/
 ├── _gt/
 │   ├── field1_json/
